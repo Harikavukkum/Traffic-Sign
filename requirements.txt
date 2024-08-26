@@ -1,0 +1,36 @@
+# Flask and web dependencies
+Flask>=2.0.0
+Flask-Cors>=3.0.10
+
+# YOLOv5 and PyTorch dependencies
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python>=4.1.1
+Pillow>=7.1.2
+numpy>=1.18.5
+
+# Additional packages
+matplotlib>=3.2.2  # For plotting images, if needed
+scipy>=1.4.1  # For scientific computations
+pyyaml>=5.3.1  # For YAML file handling
+
+# Optional packages (uncomment if needed)
+# requests>=2.23.0  # For handling HTTP requests
+# pandas>=1.1.4  # For data manipulation and analysis
+# seaborn>=0.11.0  # For statistical data visualization
+# tqdm>=4.64.0  # For progress bars
+# protobuf<=3.20.1  # For protocol buffers (if required by YOLOv5)
+# coremltools>=6.0  # For CoreML export (if needed)
+# onnx>=1.12.0  # For ONNX export (if needed)
+# onnx-simplifier>=0.4.1  # For simplifying ONNX models (if needed)
+# tensorflow>=2.4.1  # For TensorFlow export (if needed)
+# tensorflowjs>=3.9.0  # For TensorFlow.js export (if needed)
+# openvino-dev  # For OpenVINO export (if needed)
+# setuptools>=65.5.1  # For packaging and distribution
+# tritonclient[all]~=2.24.0  # For Triton Inference Server client (if needed)
+# ipython  # For interactive computing
+# mss  # For screenshots (if needed)
+# albumentations>=1.0.3  # For data augmentation (if needed)
+# pycocotools>=2.0.6  # For COCO dataset tools (if needed)
+# roboflow  # For Roboflow integration (if needed)
+# ultralytics  # For YOLOv5 Hub (if needed)
