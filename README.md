@@ -1,4 +1,5 @@
-# Traffic-Sign
+# DEEP LEARNING BASED FRAMEWORK FOR ROBUST TRAFFIC SIGN DETECTION UNDER CHALLENGING WEATHER CONDITIONS
+
 **ABSTRACT**
 Thanks to the rapid development of computer vision and deep learning technologies, advanced
 driver assistance systems (ADAS) have recently become widespread. These systems aim to
@@ -16,6 +17,7 @@ demonstrating the efficiency and suitability of real-time road object detection 
 mobile platforms.
 KEYWORDS: Deep Learning, LSTM, real-time, TSDR, ADAS, Neural Networks,
 YOLOv5
+
 **INTRODUCTION**
 As the population continues to grow, the number of vehicles on the roads is increasing at a rapid pace. This
 surge in traffic volume inevitably leads to a higher risk of accidents and fatalities. Various factors such as
